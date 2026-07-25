@@ -1,4 +1,4 @@
-[25/07/2026 07:10] Khan: <div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,30&height=220&section=header&text=Mozibur%20Rahman%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
@@ -34,14 +34,10 @@
 
 # 👨‍💻 About Me
 
-`yaml
+
 name: Mozibur Rahman Khan
 role: DevOps & Cloud Engineer
 
-education:
-  degree: B.Tech Computer Science
-  institute: Ajay Binay Institute of Technology
-  graduation: 2023
 
 specialization:
   - AWS Cloud Infrastructure
