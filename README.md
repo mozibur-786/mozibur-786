@@ -283,7 +283,7 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 
 ---
 
-<h2 align="center"> 📊 GitHub Analytics </h2>/
+<h2 align="center"> 📊 GitHub Analytics </h2>
 
 <div align="center">
 
@@ -309,7 +309,7 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 
 ---
 
-<h2 align="center"> 📈 Contribution Activity </h2>/
+<h2 align="center"> 📈 Contribution Activity </h2>
 
 <div align="center">
 
