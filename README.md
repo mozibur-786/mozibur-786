@@ -329,7 +329,7 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 
 ---
 
-# 🎯 Current Focus
+<h2 align="center">🎯 Current Focus</h2>
 
 currently_learning:
   - Advanced Kubernetes Administration
