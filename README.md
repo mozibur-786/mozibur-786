@@ -39,29 +39,29 @@ Name: Mozibur Rahman Khan
 Role: DevOps & Cloud Engineer
 
 
-specialization:
+Specialization:
   - AWS Cloud Infrastructure
   - Kubernetes Administration
   - Infrastructure as Code
   - CI/CD Automation
   - Cloud Monitoring & Observability
 
-current_focus:
+Current Focus:
   learning:
     - Advanced Kubernetes
     - Cloud Security
     - Platform Engineering
 
-building:
+Building:
     - Scalable Cloud Native Systems
     - Automated Deployment Platforms
 
-open_to:
+Open to:
     - DevOps Engineer Roles
     - Cloud Engineer Opportunities
     - Open Source Collaboration
 
-# 🤖 AI / Cloud Engineering Expertise
+<h2 align="center"> 🤖 AI / Cloud Engineering Expertise </h2>
 
 <div align="center">
 
@@ -80,7 +80,7 @@ open_to:
 
 ---
 
-# 🚀 Featured Projects
+<h2 align="center"> 🚀 Featured Projects </h2>
 
 ## <details>
 <summary><b>🏗️ Infrastructure as Code (IaC) Using Terraform on AWS</b></summary>
@@ -197,7 +197,7 @@ Implemented centralized monitoring and serverless log processing using AWS servi
 - Integrated centralized log forwarding
 
 
-# 💼 Experience
+<h2 align="center"> 💼 Experience </h2>
 
 ## ☁️ DevOps & Cloud Engineer Trainee  
 ### Naresh IT — Hyderabad  
@@ -216,7 +216,7 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 - Practiced Linux administration and cloud troubleshooting.
 
 
-# 🏆 Achievements
+<h2 align="center"> 🏆 Achievements </h2>
 
 <div align="center">
 
@@ -233,7 +233,7 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 
 ---
 
-# 📜 Certifications
+<h2 align="center"> 📜 Certifications </h2>
 
 ## ☁️ Amazon Web Services
 
@@ -259,7 +259,7 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 
 ---
 
-# 👨‍💻 Coding & Developer Profiles
+<h2 align="center"> 👨‍💻 Coding & Developer Profiles </h2>
 
 <div align="center">
 
@@ -283,7 +283,7 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 
 ---
 
-# 📊 GitHub Analytics
+<h2 align="center"> 📊 GitHub Analytics </h2>/
 
 <div align="center">
 
@@ -299,7 +299,7 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 
 ---
 
-# 🏆 GitHub Trophies
+<h2 align="center"> 🏆 GitHub Trophies </h2>
 
 <div align="center">
 
@@ -309,7 +309,7 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 
 ---
 
-# 📈 Contribution Activity
+<h2 align="center"> 📈 Contribution Activity </h2>/
 
 <div align="center">
 
@@ -319,47 +319,33 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mozibur-786/mozibur-786/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">🎯 Current Focus </h2>
 
-currently_learning:
+Currently Learning:
   - Advanced Kubernetes Administration
   - AWS Cloud Architecture
   - Cloud Security
   - Platform Engineering
   - DevSecOps Practices
 
-building:
+Building:
   - Automated Cloud Infrastructure
   - Production CI/CD Pipelines
   - Kubernetes Based Platforms
   - Observability Solutions
 
-exploring:
+Exploring:
   - GitOps Workflows
   - ArgoCD
   - Infrastructure Automation
   - Cloud Native Technologies
 
-open_to:
+Open to:
   - DevOps Engineer Opportunities
   - Cloud Engineer Roles
   - Open Source Collaboration
   - Cloud Native Projects
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mozibur-786/mozibur-786/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mozibur-786/mozibur-786/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mozibur-786/mozibur-786/output/github-contribution-grid-snake.svg">
-</picture>
