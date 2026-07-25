@@ -32,7 +32,7 @@
 
 ---
 
-# 👨‍💻 About Me
+<h2 align="center"> 👨‍💻 About Me </h2>
 
 
 Name: Mozibur Rahman Khan       
