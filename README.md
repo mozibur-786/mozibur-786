@@ -1,15 +1,374 @@
-# 💫 About Me:
-Hi, I'm Mozibur 👋<br><br>Passionate about technology, software development, and continuous learning. I enjoy building projects, exploring new tools, and solving real-world problems through code. Always curious, always improving, and excited to collaborate on open-source and innovative ideas.<br>
+[25/07/2026 07:10] Khan: <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,30&height=220&section=header&text=Mozibur%20Rahman%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;Building+Cloud+Native+Infrastructure;Automation+%7C+CI%2FCD+%7C+Observability"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Engineer-AWS-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-India-8B5CF6?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mozibur-rahman-khan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:khanrohit7311@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/mozibur-786">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mozibur-786&style=for-the-badge&color=8B5CF6"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+`yaml
+name: Mozibur Rahman Khan
+role: DevOps & Cloud Engineer
+
+education:
+  degree: B.Tech Computer Science
+  institute: Ajay Binay Institute of Technology
+  graduation: 2023
+
+specialization:
+  - AWS Cloud Infrastructure
+  - Kubernetes Administration
+  - Infrastructure as Code
+  - CI/CD Automation
+  - Cloud Monitoring & Observability
+
+current_focus:
+  learning:
+    - Advanced Kubernetes
+    - Cloud Security
+    - Platform Engineering
+
+building:
+    - Scalable Cloud Native Systems
+    - Automated Deployment Platforms
+
+open_to:
+    - DevOps Engineer Roles
+    - Cloud Engineer Opportunities
+    - Open Source Collaboration
+[25/07/2026 07:11] Khan: ---
+
+# 🤖 AI / Cloud Engineering Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| ☁️ AWS Cloud Architecture | ⭐⭐⭐⭐⭐ | Designing secure VPC architectures, EC2, IAM, ALB, ASG, RDS, Lambda, CloudFront and WAF solutions |
+| 🏗 Infrastructure as Code | ⭐⭐⭐⭐⭐ | Automated infrastructure provisioning using Terraform, OpenTofu and CloudFormation |
+| ☸️ Kubernetes Engineering | ⭐⭐⭐⭐☆ | EKS cluster deployment, Helm management, RBAC, IRSA, Ingress and production workloads |
+| 🔄 CI/CD Automation | ⭐⭐⭐⭐⭐ | Jenkins, GitHub Actions and GitLab pipelines for continuous delivery workflows |
+| 🐳 Container Engineering | ⭐⭐⭐⭐⭐ | Docker image optimization, container orchestration and deployment automation |
+| 📊 Observability | ⭐⭐⭐⭐☆ | Prometheus, Grafana, CloudWatch, ELK stack and centralized logging systems |
+| 🔐 Cloud Security | ⭐⭐⭐⭐☆ | IAM policies, least privilege access, Kubernetes security and secure connectivity |
+| 🚀 Deployment Strategies | ⭐⭐⭐⭐☆ | Canary releases, Blue-Green deployments and zero downtime delivery |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## <details>
+<summary><b>🏗️ Infrastructure as Code (IaC) Using Terraform on AWS</b></summary>
+
+<br/>
+
+### Overview
+
+Automated the provisioning of highly available AWS infrastructure using Terraform modules and Infrastructure as Code best practices.
+
+| Category | Details |
+|---|---|
+| Stack | Terraform, AWS EC2, VPC, S3, OpenTofu, CloudFormation |
+| Scale | Multi-environment cloud infrastructure automation |
+| Performance | Reduced manual infrastructure setup time by 90% |
+| Security | Implemented IAM controls, security groups and best practices |
+| Impact | Enabled repeatable and consistent deployments |
+
+### Key Implementation
+
+- Designed AWS VPC architecture with public/private subnets
+- Automated EC2 provisioning
+- Managed Terraform state securely
+- Created reusable Terraform modules
+- Applied Infrastructure as Code principles
+
+Repository:
+[25/07/2026 07:12] Khan: </details>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qalb.al_mumin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mozibur-rahman-khan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NoorAl_Qalb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanrohit7311@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mozibur-786&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mozibur-786&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mozibur-786&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## <details>
+<summary><b>🐳 Automated Application Deployment Using GitHub Actions & Docker</b></summary>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+### Overview
+
+Built an automated CI/CD workflow that containerizes applications and deploys them to AWS environments.
+
+| Category | Details |
+|---|---|
+| Stack | GitHub Actions, Docker, Docker Hub, AWS EC2 |
+| Scale | Automated application delivery pipeline |
+| Performance | Faster and reliable deployments |
+| Security | Secure container image workflow |
+| Impact | Reduced manual deployment effort |
+
+### Key Implementation
+
+- Created GitHub Actions workflows
+- Automated Docker image builds
+- Pushed images to Docker Hub
+- Integrated AWS EC2 deployment
+- Improved deployment consistency
+
+Repository:
+[25/07/2026 07:12] Khan: </details>
+
+
+---
+
+## <details>
+<summary><b>☸️ End-to-End CI/CD Pipeline Using Jenkins, Docker, Kubernetes & AWS</b></summary>
+
+<br/>
+
+### Overview
+
+Designed a production-style CI/CD pipeline using Jenkins for automation and Kubernetes EKS for container orchestration.
+
+| Category | Details |
+|---|---|
+| Stack | Jenkins, Kubernetes EKS, Docker, AWS EC2, Helm |
+| Scale | Cloud-native Kubernetes deployment |
+| Performance | Automated build and release lifecycle |
+| Security | Kubernetes RBAC and secure workloads |
+| Impact | Enabled zero downtime deployments |
+
+### Key Implementation
+
+- Automated application builds using Jenkins
+- Created Docker container images
+- Deployed applications on Kubernetes
+- Managed applications using Helm charts
+- Implemented rolling updates
+
+Repository:
+[25/07/2026 07:12] Khan: </details>
+
+
+---
+
+## <details>
+<summary><b>📊 Centralized Monitoring & Serverless Logging Platform</b></summary>
+
+<br/>
+
+### Overview
+
+Implemented centralized monitoring and serverless log processing using AWS services and open-source observability tools.
+
+| Category | Details |
+|---|---|
+| Stack | CloudWatch, Lambda, EventBridge, Grafana, Prometheus |
+| Scale | Centralized cloud monitoring architecture |
+| Performance | Real-time infrastructure visibility |
+| Security | IAM policies and lifecycle management |
+| Impact | Improved troubleshooting and system reliability |
+
+### Key Implementation
+
+- Configured CloudWatch Agent for EC2 logs
+- Created Lambda-based log processing pipeline
+- Stored logs securely in S3
+- Applied IAM access policies
+- Monitored metrics using Prometheus
+- Built Grafana dashboards
+- Integrated centralized log forwarding
+
+Repository:
+[25/07/2026 07:13] Khan: ---
+
+# 💼 Experience
+
+## ☁️ DevOps & Cloud Engineer Trainee  
+### Naresh IT — Hyderabad  
+Nov 2025 – Present
+
+Working on real-world DevOps and cloud engineering practices with focus on AWS infrastructure automation, Kubernetes orchestration, CI/CD pipelines and cloud security.
+
+### Responsibilities
+
+- Designed and developed production-grade AWS infrastructure using Terraform and CloudFormation.
+- Built and managed Kubernetes EKS clusters using Helm for application deployment.
+- Implemented CI/CD automation using Jenkins and GitHub Actions.
+- Configured Kubernetes security using RBAC and IRSA.
+- Implemented Canary and Blue-Green deployment strategies.
+- Worked on monitoring solutions using Prometheus, Grafana and CloudWatch.
+- Practiced Linux administration and cloud troubleshooting.
+
+### Skills
+[25/07/2026 07:13] Khan: ---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---|:---|
+| ☁️ Cloud Engineering | Built AWS infrastructure automation using Terraform and CloudFormation |
+| 🚀 CI/CD Automation | Developed automated deployment pipelines using Jenkins and GitHub Actions |
+| ☸️ Kubernetes | Deployed and managed Kubernetes workloads using EKS and Helm |
+| 🔐 Cloud Security | Implemented IAM, RBAC and IRSA security practices |
+| 📊 Observability | Created monitoring solutions using Prometheus, Grafana and CloudWatch |
+| ⚡ Automation | Reduced infrastructure provisioning effort through Infrastructure as Code |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+## ☁️ Amazon Web Services
+
+<img src="https://img.shields.io/badge/AWS-DevOps%20Professional%20Training-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+- AWS Cloud Infrastructure
+- EC2, VPC, IAM, ALB, ASG
+- RDS, Lambda, CloudFront
+- CloudWatch & CloudTrail
+- AWS Security Best Practices
+
+---
+
+## 🟦 Other Training
+
+<img src="https://img.shields.io/badge/Naresh%20IT-DevOps%20%26%20Multi%20Cloud-6366F1?style=for-the-badge"/>
+
+- DevOps Engineering
+- Multi Cloud Fundamentals
+- Kubernetes Administration
+- CI/CD Automation
+- Infrastructure Automation
+
+---
+
+# 👨‍💻 Coding & Developer Profiles
+
+<div align="center">
+
+<a href="https://github.com/mozibur-786">
+<img src="https://img.shields.io/badge/GitHub-Mozibur%20Rahman%20Khan-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</div>
+
+---
+[25/07/2026 07:13] Khan: ---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mozibur-786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mozibur-786&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6"/>
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozibur-786&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mozibur-786&theme=algolia&no-frame=true&margin-w=10&row=2"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mozibur-786&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mozibur-786/mozibur-786/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+`yaml
+currently_learning:
+  - Advanced Kubernetes Administration
+  - AWS Cloud Architecture
+  - Cloud Security
+  - Platform Engineering
+  - DevSecOps Practices
+
+building:
+  - Automated Cloud Infrastructure
+  - Production CI/CD Pipelines
+  - Kubernetes Based Platforms
+  - Observability Solutions
+
+exploring:
+  - GitOps Workflows
+  - ArgoCD
+  - Infrastructure Automation
+  - Cloud Native Technologies
+
+open_to:
+  - DevOps Engineer Opportunities
+  - Cloud Engineer Roles
+  - Open Source Collaboration
+  - Cloud Native Projects
