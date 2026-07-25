@@ -35,8 +35,8 @@
 # 👨‍💻 About Me
 
 
-name: Mozibur Rahman Khan
-role: DevOps & Cloud Engineer
+Name: Mozibur Rahman Khan       
+Role: DevOps & Cloud Engineer
 
 
 specialization:
@@ -60,7 +60,6 @@ open_to:
     - DevOps Engineer Roles
     - Cloud Engineer Opportunities
     - Open Source Collaboration
-[25/07/2026 07:11] Khan: ---
 
 # 🤖 AI / Cloud Engineering Expertise
 
@@ -108,8 +107,6 @@ Automated the provisioning of highly available AWS infrastructure using Terrafor
 - Created reusable Terraform modules
 - Applied Infrastructure as Code principles
 
-Repository:
-[25/07/2026 07:12] Khan: </details>
 
 
 ---
@@ -139,8 +136,6 @@ Built an automated CI/CD workflow that containerizes applications and deploys th
 - Integrated AWS EC2 deployment
 - Improved deployment consistency
 
-Repository:
-[25/07/2026 07:12] Khan: </details>
 
 
 ---
@@ -170,8 +165,6 @@ Designed a production-style CI/CD pipeline using Jenkins for automation and Kube
 - Managed applications using Helm charts
 - Implemented rolling updates
 
-Repository:
-[25/07/2026 07:12] Khan: </details>
 
 
 ---
@@ -203,8 +196,6 @@ Implemented centralized monitoring and serverless log processing using AWS servi
 - Built Grafana dashboards
 - Integrated centralized log forwarding
 
-Repository:
-[25/07/2026 07:13] Khan: ---
 
 # 💼 Experience
 
@@ -224,8 +215,6 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 - Worked on monitoring solutions using Prometheus, Grafana and CloudWatch.
 - Practiced Linux administration and cloud troubleshooting.
 
-### Skills
-[25/07/2026 07:13] Khan: ---
 
 # 🏆 Achievements
 
@@ -293,7 +282,6 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 </div>
 
 ---
-[25/07/2026 07:13] Khan: ---
 
 # 📊 GitHub Analytics
 
@@ -343,7 +331,6 @@ Working on real-world DevOps and cloud engineering practices with focus on AWS i
 
 # 🎯 Current Focus
 
-`yaml
 currently_learning:
   - Advanced Kubernetes Administration
   - AWS Cloud Architecture
